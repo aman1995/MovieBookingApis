@@ -11,7 +11,14 @@
     "express": "~4.17.1",
     "http-errors": "~1.6.3",
     "jade": "~1.11.0",
-    "morgan": "~1.9.1"
+    "joi": "^14.3.1",
+    "joi-objectid": "^3.0.1",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.26",
+    "mongoose-auto-increment": "^5.0.1",
+    "mongoose-sequence": "^5.2.2",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.4"
   },
   "config": {
     "mongodbMemoryServer": {
